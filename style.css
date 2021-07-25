@@ -1,0 +1,26 @@
+body {
+    background-color: #e1f1dd;
+}
+
+h1{
+    font-family:cursive;
+    font-size:350%;
+    color:#4aa96c;
+}
+p {
+    font-family:cursive; 
+    font-size:20px;
+    color:#34656d;
+}
+.starbucks{
+    background-color:#d1d9d9;
+    border-radius:30%; 
+}
+.bubble{
+    background-color:#eec4c4;
+    border-radius:30%;
+}
+img:hover{
+    cursor: pointer;
+    background-color:#4aa96c;
+} 
